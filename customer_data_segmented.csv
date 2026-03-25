@@ -1,0 +1,399 @@
+CustomerID,Name,Age,AgeGroup,Region,ProductCategory,PurchaseAmount,Frequency,CustomerValueScore,Cluster,ClusterLabel
+1,Alice Johnson,28.0,25-34,North,Electronics,250.5,5,28.321052631578947,0,Loyal Customers
+2,Bob Smith,35.0,25-34,South,Clothing,180.0,3,18.86842105263158,0,Loyal Customers
+3,Carol White,33.0,25-34,East,Electronics,320.75,7,37.757894736842104,0,Loyal Customers
+4,David Brown,45.0,35-44,West,Groceries,95.0,1,8.5,0,Loyal Customers
+5,Eve Davis,22.0,<25,North,Beauty,410.25,9,48.41052631578947,0,Loyal Customers
+6,Frank Miller,31.0,25-34,South,Clothing,230.0,4,24.526315789473685,0,Loyal Customers
+7,Grace Wilson,29.0,25-34,East,Groceries,175.5,3,18.584210526315793,0,Loyal Customers
+8,Henry Moore,52.0,45-54,West,Electronics,850.0,12,83.6842105263158,1,Champions
+9,Iris Taylor,41.0,35-44,North,Beauty,140.0,2,13.842105263157894,0,Loyal Customers
+10,Jack Anderson,26.0,25-34,South,Clothing,300.0,6,33.94736842105263,0,Loyal Customers
+11,Karen Thomas,38.0,35-44,East,Electronics,220.5,4,23.926315789473684,0,Loyal Customers
+12,Leo Jackson,33.0,25-34,West,Groceries,190.75,3,19.54736842105263,0,Loyal Customers
+13,Mia White,24.0,<25,North,Beauty,450.0,10,53.421052631578945,0,Loyal Customers
+14,Nate Harris,47.0,45-54,South,Groceries,110.25,2,11.963157894736842,0,Loyal Customers
+15,Olivia Martin,30.0,25-34,East,Electronics,275.0,5,29.86842105263158,0,Loyal Customers
+16,Peter Garcia,55.0,45-54,West,Electronics,920.5,14,93.13684210526316,1,Champions
+17,Quinn Martinez,21.0,<25,North,Beauty,380.0,8,44.0,0,Loyal Customers
+18,Ryan Robinson,43.0,35-44,South,Clothing,160.0,3,17.605263157894736,0,Loyal Customers
+19,Sara Clark,27.0,25-34,East,Groceries,195.5,4,22.347368421052632,0,Loyal Customers
+20,Tom Rodriguez,36.0,35-44,West,Clothing,240.0,5,27.657894736842103,0,Loyal Customers
+21,Uma Lewis,32.0,25-34,North,Electronics,310.75,6,34.62631578947368,0,Loyal Customers
+22,Victor Lee,28.0,25-34,South,Groceries,145.0,2,14.157894736842106,0,Loyal Customers
+23,Wendy Walker,50.0,45-54,East,Electronics,680.0,11,70.44736842105263,1,Champions
+24,Xander Hall,23.0,<25,West,Beauty,425.5,9,49.373684210526314,0,Loyal Customers
+25,Yara Allen,39.0,35-44,North,Clothing,205.0,4,22.947368421052634,0,Loyal Customers
+26,Zoe Young,25.0,<25,South,Electronics,350.0,7,39.60526315789474,0,Loyal Customers
+27,Aaron Hernandez,44.0,35-44,East,Groceries,130.75,2,13.257894736842104,0,Loyal Customers
+28,Bella King,31.0,25-34,West,Beauty,280.0,5,30.18421052631579,0,Loyal Customers
+29,Carlos Wright,37.0,35-44,North,Clothing,165.0,3,17.92105263157895,0,Loyal Customers
+30,Diana Scott,29.0,25-34,South,Electronics,390.25,8,44.64736842105263,0,Loyal Customers
+31,Ethan Green,48.0,45-54,East,Electronics,750.0,13,79.86842105263158,1,Champions
+32,Fiona Adams,26.0,25-34,West,Beauty,215.5,4,23.610526315789475,0,Loyal Customers
+33,George Baker,53.0,45-54,North,Groceries,105.0,1,9.131578947368421,0,Loyal Customers
+34,Hannah Gonzalez,34.0,25-34,South,Clothing,260.75,5,28.968421052631577,0,Loyal Customers
+35,Ian Nelson,41.0,35-44,East,Groceries,185.0,3,19.18421052631579,0,Loyal Customers
+36,Julia Carter,22.0,<25,West,Beauty,440.0,10,52.78947368421052,0,Loyal Customers
+37,Kevin Mitchell,46.0,45-54,North,Electronics,315.25,6,34.910526315789475,0,Loyal Customers
+38,Laura Perez,33.0,25-34,South,Clothing,170.5,3,18.268421052631577,0,Loyal Customers
+39,Mike Roberts,27.0,25-34,East,Electronics,290.0,6,33.31578947368421,0,Loyal Customers
+40,Nancy Turner,55.0,45-54,West,Electronics,880.75,15,93.12631578947368,1,Champions
+41,Oscar Phillips,30.0,25-34,North,Clothing,200.0,4,22.631578947368418,0,Loyal Customers
+42,Pam Campbell,38.0,35-44,South,Groceries,135.25,2,13.542105263157895,0,Loyal Customers
+43,Quincy Parker,24.0,<25,East,Beauty,460.5,10,54.08421052631578,0,Loyal Customers
+44,Rachel Evans,43.0,35-44,West,Clothing,155.0,3,17.289473684210527,0,Loyal Customers
+45,Steve Edwards,35.0,25-34,North,Electronics,330.75,7,38.38947368421053,0,Loyal Customers
+46,Tina Collins,28.0,25-34,South,Beauty,245.0,5,27.97368421052632,0,Loyal Customers
+47,Ursula Stewart,32.0,25-34,East,Groceries,180.25,3,18.88421052631579,0,Loyal Customers
+48,Vaughn Sanchez,50.0,45-54,West,Electronics,710.0,12,74.8421052631579,1,Champions
+49,Wendy Morris,26.0,25-34,North,Beauty,395.5,8,44.97894736842105,0,Loyal Customers
+50,Xavier Rogers,41.0,35-44,South,Groceries,125.75,2,12.942105263157893,0,Loyal Customers
+51,Yvonne Reed,29.0,25-34,East,Clothing,265.0,5,29.236842105263154,0,Loyal Customers
+52,Zachary Cook,36.0,35-44,West,Electronics,220.25,4,23.910526315789475,0,Loyal Customers
+53,Amy Bell,23.0,<25,North,Beauty,480.75,11,57.86315789473684,0,Loyal Customers
+54,Brian Murphy,47.0,45-54,South,Groceries,145.5,2,14.189473684210526,0,Loyal Customers
+55,Cindy Bailey,31.0,25-34,East,Electronics,285.0,6,33.0,0,Loyal Customers
+56,Derek Rivera,54.0,45-54,West,Electronics,940.25,16,99.38421052631578,1,Champions
+57,Elaine Cooper,27.0,25-34,North,Clothing,360.5,7,40.268421052631574,0,Loyal Customers
+58,Floyd Richardson,40.0,35-44,South,Groceries,190.75,4,22.04736842105263,0,Loyal Customers
+59,Gina Cox,25.0,<25,East,Beauty,415.0,9,48.71052631578947,0,Loyal Customers
+60,Harold Howard,44.0,35-44,West,Clothing,160.25,3,17.621052631578948,0,Loyal Customers
+61,Isabel Ward,33.0,25-34,North,Electronics,300.5,6,33.97894736842105,0,Loyal Customers
+62,Jason Torres,28.0,25-34,South,Groceries,175.75,3,18.6,0,Loyal Customers
+63,Katherine Peterson,38.0,35-44,East,Clothing,240.0,5,27.657894736842103,0,Loyal Customers
+64,Liam Gray,52.0,45-54,West,Electronics,790.5,13,82.42631578947368,1,Champions
+65,Monica Ramirez,24.0,<25,North,Beauty,430.25,9,49.67368421052632,0,Loyal Customers
+66,Nathan James,46.0,45-54,South,Groceries,150.0,2,14.473684210526317,0,Loyal Customers
+67,Ophelia Watson,30.0,25-34,East,Electronics,270.75,5,29.599999999999998,0,Loyal Customers
+68,Paul Brooks,37.0,35-44,West,Clothing,205.5,4,22.97894736842105,0,Loyal Customers
+69,Queenie Kelly,22.0,<25,North,Beauty,500.0,11,59.078947368421055,0,Loyal Customers
+70,Robert Sanders,48.0,45-54,South,Groceries,135.25,2,13.542105263157895,0,Loyal Customers
+71,Samantha Price,29.0,25-34,East,Electronics,295.75,6,33.67894736842105,0,Loyal Customers
+72,Thomas Bennett,35.0,25-34,West,Clothing,225.0,4,24.210526315789473,0,Loyal Customers
+73,Ursula Wood,27.0,25-34,North,Beauty,345.5,7,39.321052631578944,0,Loyal Customers
+74,Victor Barnes,43.0,35-44,South,Groceries,170.25,3,18.25263157894737,0,Loyal Customers
+75,Wanda Ross,31.0,25-34,East,Electronics,310.0,6,34.578947368421055,0,Loyal Customers
+76,Xavier Henderson,55.0,45-54,West,Electronics,860.75,14,89.36315789473683,1,Champions
+77,Yolanda Coleman,26.0,25-34,North,Beauty,385.25,8,44.33157894736842,0,Loyal Customers
+78,Zachary Jenkins,40.0,35-44,South,Clothing,155.5,3,17.321052631578947,0,Loyal Customers
+79,Alice Perry,34.0,25-34,East,Electronics,280.75,5,30.23157894736842,0,Loyal Customers
+80,Benjamin Powell,49.0,45-54,West,Electronics,720.0,12,75.47368421052632,1,Champions
+81,Chloe Long,23.0,<25,North,Beauty,455.25,10,53.752631578947366,0,Loyal Customers
+82,Daniel Patterson,36.0,35-44,South,Groceries,195.0,4,22.315789473684212,0,Loyal Customers
+83,Emma Hughes,28.0,25-34,East,Clothing,265.5,5,29.268421052631577,0,Loyal Customers
+84,Fred Flores,44.0,35-44,West,Groceries,180.75,3,18.91578947368421,0,Loyal Customers
+85,Gloria Washington,32.0,25-34,North,Electronics,330.0,7,38.3421052631579,0,Loyal Customers
+86,Harry Butler,51.0,45-54,South,Electronics,810.25,13,83.67368421052632,1,Champions
+87,Iris Simmons,25.0,<25,East,Beauty,400.5,8,45.294736842105266,0,Loyal Customers
+88,Jake Foster,39.0,35-44,West,Clothing,215.75,4,23.626315789473683,0,Loyal Customers
+89,Kara Gonzales,27.0,25-34,North,Electronics,360.0,7,40.23684210526316,0,Loyal Customers
+90,Lance Bryant,46.0,45-54,South,Groceries,140.25,2,13.857894736842105,0,Loyal Customers
+91,Mandy Alexander,30.0,25-34,East,Beauty,285.5,6,33.03157894736842,0,Loyal Customers
+92,Ned Russell,37.0,35-44,West,Clothing,200.75,4,22.678947368421053,0,Loyal Customers
+93,Olga Griffin,24.0,<25,North,Beauty,470.25,10,54.699999999999996,0,Loyal Customers
+94,Phil Diaz,43.0,35-44,South,Groceries,165.5,3,17.95263157894737,0,Loyal Customers
+95,Rebecca Hayes,29.0,25-34,East,Electronics,310.75,6,34.62631578947368,0,Loyal Customers
+96,Scott Myers,52.0,45-54,West,Electronics,880.0,15,93.07894736842105,1,Champions
+97,Tara Ford,26.0,25-34,North,Beauty,375.25,8,43.7,0,Loyal Customers
+98,Ulysses Hamilton,41.0,35-44,South,Clothing,150.75,3,17.021052631578947,0,Loyal Customers
+99,Violet Graham,33.0,25-34,East,Electronics,255.0,5,28.605263157894733,0,Loyal Customers
+100,Walter Sullivan,48.0,45-54,West,Electronics,700.25,11,71.72631578947369,1,Champions
+101,Xena Wallace,22.0,<25,North,Beauty,445.5,10,53.13684210526315,0,Loyal Customers
+102,Yale West,35.0,25-34,South,Groceries,185.75,3,19.231578947368423,0,Loyal Customers
+103,Zara Cole,28.0,25-34,East,Clothing,295.0,6,33.631578947368425,0,Loyal Customers
+104,Unknown,31.0,25-34,West,Electronics,210.5,4,23.294736842105262,0,Loyal Customers
+105,Angela Foster,38.0,35-44,North,Groceries,170.25,3,18.25263157894737,0,Loyal Customers
+106,Brandon Simmons,26.0,25-34,South,Electronics,340.75,7,39.02105263157895,0,Loyal Customers
+107,Candace Alexander,44.0,35-44,East,Groceries,155.5,2,14.821052631578945,0,Loyal Customers
+108,Dennis Roberts,50.0,45-54,West,Electronics,760.0,12,78.0,1,Champions
+109,Eleanor Turner,25.0,<25,North,Beauty,420.25,9,49.0421052631579,0,Loyal Customers
+110,Floyd Parker,40.0,35-44,South,Clothing,175.75,3,18.6,0,Loyal Customers
+111,Geraldine Evans,32.0,25-34,East,Electronics,270.5,5,29.58421052631579,0,Loyal Customers
+112,Harold Edwards,47.0,45-54,West,Groceries,145.25,2,14.173684210526316,0,Loyal Customers
+113,Ingrid Collins,29.0,25-34,North,Clothing,305.75,6,34.310526315789474,0,Loyal Customers
+114,Julian Morris,36.0,35-44,South,Electronics,230.0,4,24.526315789473685,0,Loyal Customers
+115,Kendra Rogers,23.0,<25,East,Beauty,490.5,11,58.47894736842105,0,Loyal Customers
+116,Lawrence Reed,53.0,45-54,West,Electronics,900.25,15,94.3578947368421,1,Champions
+117,Monica Bell,27.0,25-34,North,Beauty,365.75,7,40.6,0,Loyal Customers
+118,Norman Murphy,42.0,35-44,South,Groceries,160.5,3,17.636842105263156,0,Loyal Customers
+119,Octavia Bailey,30.0,25-34,East,Electronics,310.0,6,34.578947368421055,0,Loyal Customers
+120,Percy Rivera,45.0,35-44,West,Clothing,195.25,4,22.33157894736842,0,Loyal Customers
+121,Quentin Cooper,28.0,25-34,North,Electronics,285.75,5,30.547368421052635,0,Loyal Customers
+122,Roselyn Howard,34.0,25-34,South,Beauty,240.0,5,27.657894736842103,0,Loyal Customers
+123,Sergio Cox,49.0,45-54,East,Electronics,730.5,12,76.13684210526316,1,Champions
+124,Tanya Ward,24.0,<25,West,Beauty,440.75,9,50.33684210526316,0,Loyal Customers
+125,Ulric Torres,38.0,35-44,North,Groceries,180.0,3,18.86842105263158,0,Loyal Customers
+126,Vera Peterson,31.0,25-34,South,Clothing,320.25,6,35.22631578947368,0,Loyal Customers
+127,Warren Gray,55.0,45-54,East,Electronics,870.0,14,89.94736842105262,1,Champions
+128,Xandra Ramirez,22.0,<25,West,Beauty,415.5,9,48.742105263157896,0,Loyal Customers
+129,Yuri James,43.0,35-44,North,Clothing,150.25,3,16.989473684210527,0,Loyal Customers
+130,Zena Watson,26.0,25-34,South,Electronics,290.75,6,33.36315789473684,0,Loyal Customers
+131,Alex Brooks,37.0,35-44,East,Groceries,205.0,4,22.947368421052634,0,Loyal Customers
+132,Brenda Kelly,29.0,25-34,West,Beauty,360.25,7,40.25263157894737,0,Loyal Customers
+133,Charles Sanders,46.0,45-54,North,Groceries,135.5,2,13.557894736842105,0,Loyal Customers
+134,Delilah Price,32.0,25-34,South,Clothing,275.75,5,29.915789473684207,0,Loyal Customers
+135,Evan Bennett,25.0,<25,East,Beauty,480.0,10,55.315789473684205,0,Loyal Customers
+136,Felicia Wood,41.0,35-44,West,Groceries,165.25,3,17.936842105263157,0,Loyal Customers
+137,Gregory Barnes,33.0,25-34,North,Electronics,295.5,6,33.66315789473684,0,Loyal Customers
+138,Holly Ross,28.0,25-34,South,Clothing,230.75,4,24.573684210526316,0,Loyal Customers
+139,Isaac Henderson,50.0,45-54,East,Electronics,780.25,13,81.77894736842106,1,Champions
+140,Jade Coleman,24.0,<25,West,Beauty,435.0,9,49.973684210526315,0,Loyal Customers
+141,Kenneth Jenkins,39.0,35-44,North,Clothing,190.5,4,22.03157894736842,0,Loyal Customers
+142,Lila Perry,27.0,25-34,South,Electronics,310.75,6,34.62631578947368,0,Loyal Customers
+143,Marcus Powell,44.0,35-44,East,Groceries,170.0,3,18.236842105263158,0,Loyal Customers
+144,Nina Long,31.0,25-34,West,Beauty,345.25,7,39.305263157894736,0,Loyal Customers
+145,Oscar Patterson,36.0,35-44,North,Clothing,215.5,4,23.610526315789475,0,Loyal Customers
+146,Portia Hughes,23.0,<25,South,Beauty,500.75,11,59.12631578947369,0,Loyal Customers
+147,Quentin Flores,48.0,45-54,East,Electronics,720.5,12,75.50526315789475,1,Champions
+148,Ruby Washington,26.0,25-34,West,Beauty,385.0,8,44.315789473684205,0,Loyal Customers
+149,Sylvester Butler,40.0,35-44,North,Clothing,160.75,3,17.65263157894737,0,Loyal Customers
+150,Tammy Simmons,34.0,25-34,South,Electronics,280.0,5,30.18421052631579,0,Loyal Customers
+151,Ulysses Foster,29.0,25-34,East,Clothing,225.25,4,24.226315789473684,0,Loyal Customers
+152,Valencia Gonzales,38.0,35-44,West,Electronics,340.5,7,39.005263157894746,0,Loyal Customers
+153,Winston Bryant,52.0,45-54,North,Electronics,820.75,13,84.33684210526316,1,Champions
+154,Xenia Alexander,25.0,<25,South,Beauty,410.25,9,48.41052631578947,0,Loyal Customers
+155,York Russell,43.0,35-44,East,Groceries,175.5,3,18.584210526315793,0,Loyal Customers
+156,Zelda Griffin,30.0,25-34,West,Clothing,300.75,6,33.99473684210527,0,Loyal Customers
+157,Adam Diaz,47.0,45-54,North,Groceries,145.0,2,14.157894736842106,0,Loyal Customers
+158,Bertha Hayes,22.0,<25,South,Beauty,460.5,10,54.08421052631578,0,Loyal Customers
+159,Cecil Myers,37.0,35-44,East,Electronics,200.25,4,22.647368421052633,0,Loyal Customers
+160,Diana Ford,28.0,25-34,West,Beauty,370.75,7,40.915789473684214,0,Loyal Customers
+161,Edward Hamilton,55.0,45-54,North,Electronics,950.0,16,100.0,1,Champions
+162,Frances Graham,32.0,25-34,South,Clothing,255.5,5,28.63684210526316,0,Loyal Customers
+163,Gerald Sullivan,46.0,45-54,East,Groceries,165.75,3,17.968421052631577,0,Loyal Customers
+164,Harriet Wallace,24.0,<25,West,Beauty,445.0,10,53.10526315789475,0,Loyal Customers
+165,Ivan West,41.0,35-44,North,Groceries,185.25,3,19.2,0,Loyal Customers
+166,Jacqueline Cole,29.0,25-34,South,Electronics,315.5,6,34.92631578947368,0,Loyal Customers
+167,Kirk Foster,36.0,35-44,East,Clothing,235.75,4,24.889473684210525,0,Loyal Customers
+168,Laura Simmons,27.0,25-34,West,Beauty,390.25,8,44.64736842105263,0,Loyal Customers
+169,Martin Alexander,44.0,35-44,North,Groceries,155.0,3,17.289473684210527,0,Loyal Customers
+170,Nina Roberts,31.0,25-34,South,Electronics,275.25,5,29.88421052631579,0,Loyal Customers
+171,Oliver Turner,50.0,45-54,East,Electronics,750.75,12,77.41578947368421,1,Champions
+172,Patricia Parker,25.0,<25,West,Beauty,420.5,9,49.0578947368421,0,Loyal Customers
+173,Quincy Evans,39.0,35-44,North,Clothing,200.75,4,22.678947368421053,0,Loyal Customers
+174,Rhonda Edwards,28.0,25-34,South,Electronics,340.0,7,38.973684210526315,0,Loyal Customers
+175,Stanley Collins,47.0,45-54,East,Groceries,160.25,3,17.621052631578948,0,Loyal Customers
+176,Teresa Morris,33.0,25-34,West,Clothing,295.5,6,33.66315789473684,0,Loyal Customers
+177,Ulrich Rogers,23.0,<25,North,Beauty,475.75,10,55.04736842105263,0,Loyal Customers
+178,Vera Reed,42.0,35-44,South,Groceries,175.0,3,18.55263157894737,0,Loyal Customers
+179,Walter Bell,30.0,25-34,East,Electronics,330.25,6,35.857894736842105,0,Loyal Customers
+180,Xenia Murphy,26.0,25-34,West,Beauty,405.5,8,45.61052631578947,0,Loyal Customers
+181,Yale Bailey,37.0,35-44,North,Clothing,190.0,4,22.0,0,Loyal Customers
+182,Zora Rivera,28.0,25-34,South,Electronics,260.75,5,28.968421052631577,0,Loyal Customers
+183,Albert Cooper,53.0,45-54,East,Electronics,830.25,13,84.93684210526315,1,Champions
+184,Beatrice Howard,24.0,<25,West,Beauty,450.75,10,53.46842105263158,0,Loyal Customers
+185,Cecil Cox,40.0,35-44,North,Groceries,170.5,3,18.268421052631577,0,Loyal Customers
+186,Dolores Ward,31.0,25-34,South,Clothing,305.0,6,34.26315789473684,0,Loyal Customers
+187,Edgar Torres,48.0,45-54,East,Electronics,710.5,11,72.37368421052632,1,Champions
+188,Florence Peterson,25.0,<25,West,Beauty,380.75,8,44.04736842105264,0,Loyal Customers
+189,George Gray,43.0,35-44,North,Clothing,155.25,3,17.30526315789474,0,Loyal Customers
+190,Helena Ramirez,29.0,25-34,South,Electronics,290.0,6,33.31578947368421,0,Loyal Customers
+191,Ignacio James,36.0,35-44,East,Groceries,220.5,4,23.926315789473684,0,Loyal Customers
+192,Jane Watson,27.0,25-34,West,Beauty,360.75,7,40.28421052631579,0,Loyal Customers
+193,Kyle Brooks,50.0,45-54,North,Electronics,770.25,12,78.64736842105263,1,Champions
+194,Lydia Kelly,23.0,<25,South,Beauty,440.0,9,50.28947368421053,0,Loyal Customers
+195,Michael Sanders,44.0,35-44,East,Groceries,165.5,3,17.95263157894737,0,Loyal Customers
+196,Nancy Price,32.0,25-34,West,Clothing,300.25,6,33.96315789473684,0,Loyal Customers
+197,Owen Bennett,28.0,25-34,North,Electronics,275.75,5,29.915789473684207,0,Loyal Customers
+198,Paula Wood,38.0,35-44,South,Clothing,240.5,5,27.689473684210526,0,Loyal Customers
+199,Quincy Barnes,46.0,45-54,East,Groceries,150.0,2,14.473684210526317,0,Loyal Customers
+200,Rachel Ross,33.0,25-34,West,Electronics,320.5,6,35.242105263157896,0,Loyal Customers
+201,Samuel Henderson,25.0,<25,North,Beauty,490.75,11,58.49473684210527,0,Loyal Customers
+202,Tara Coleman,41.0,35-44,South,Groceries,175.25,3,18.568421052631578,0,Loyal Customers
+203,Ulrich Jenkins,29.0,25-34,East,Clothing,310.0,6,34.578947368421055,0,Loyal Customers
+204,Vanessa Perry,34.0,25-34,West,Electronics,365.5,7,40.584210526315786,0,Loyal Customers
+205,William Powell,52.0,45-54,North,Electronics,800.75,13,83.07368421052632,1,Champions
+206,Xiomara Long,24.0,<25,South,Beauty,435.25,9,49.98947368421053,0,Loyal Customers
+207,Yancey Patterson,39.0,35-44,East,Clothing,195.75,4,22.363157894736844,0,Loyal Customers
+208,Zelda Hughes,27.0,25-34,West,Beauty,355.0,7,39.921052631578945,0,Loyal Customers
+209,Aaron Flores,44.0,35-44,North,Groceries,160.75,3,17.65263157894737,0,Loyal Customers
+210,Barbara Washington,31.0,25-34,South,Electronics,285.25,5,30.515789473684208,0,Loyal Customers
+211,Carter Butler,48.0,45-54,East,Electronics,740.5,12,76.76842105263158,1,Champions
+212,Daphne Simmons,23.0,<25,West,Beauty,425.75,9,49.38947368421053,0,Loyal Customers
+213,Elliot Foster,37.0,35-44,North,Clothing,205.25,4,22.96315789473684,0,Loyal Customers
+214,Fatima Gonzales,28.0,25-34,South,Electronics,370.0,7,40.868421052631575,0,Loyal Customers
+215,Gordon Bryant,55.0,45-54,East,Electronics,910.25,15,94.98947368421052,1,Champions
+216,Heidi Alexander,26.0,25-34,West,Beauty,390.5,8,44.66315789473684,0,Loyal Customers
+217,Ivan Russell,40.0,35-44,North,Groceries,165.0,3,17.92105263157895,0,Loyal Customers
+218,Jasmine Griffin,32.0,25-34,South,Clothing,295.75,6,33.67894736842105,0,Loyal Customers
+219,Kevin Diaz,47.0,45-54,East,Groceries,150.25,2,14.489473684210527,0,Loyal Customers
+220,Linda Hayes,29.0,25-34,West,Electronics,340.25,7,38.98947368421053,0,Loyal Customers
+221,Monty Myers,36.0,35-44,North,Clothing,230.5,4,24.557894736842105,0,Loyal Customers
+222,Naomi Ford,24.0,<25,South,Beauty,480.75,10,55.363157894736844,0,Loyal Customers
+223,Orville Hamilton,43.0,35-44,East,Groceries,170.75,3,18.284210526315793,0,Loyal Customers
+224,Penny Graham,30.0,25-34,West,Clothing,315.0,6,34.89473684210527,0,Loyal Customers
+225,Quinton Sullivan,50.0,45-54,North,Electronics,760.25,12,78.01578947368422,1,Champions
+226,Rowena Wallace,25.0,<25,South,Beauty,405.5,8,45.61052631578947,0,Loyal Customers
+227,Sidney West,38.0,35-44,East,Clothing,190.25,4,22.01578947368421,0,Loyal Customers
+228,Tamara Cole,27.0,25-34,West,Beauty,350.75,7,39.65263157894737,0,Loyal Customers
+229,Tyrone Foster,45.0,35-44,North,Groceries,155.5,3,17.321052631578947,0,Loyal Customers
+230,Uma Simmons,31.0,25-34,South,Electronics,275.0,5,29.86842105263158,0,Loyal Customers
+231,Vernon Alexander,28.0,25-34,East,Clothing,215.75,4,23.626315789473683,0,Loyal Customers
+232,Willa Roberts,34.0,25-34,West,Beauty,380.25,7,41.51578947368421,0,Loyal Customers
+233,Xavier Turner,49.0,45-54,North,Electronics,730.5,11,73.63684210526316,1,Champions
+234,Yolanda Parker,23.0,<25,South,Beauty,445.75,9,50.65263157894737,0,Loyal Customers
+235,Zack Evans,42.0,35-44,East,Groceries,180.0,3,18.86842105263158,0,Loyal Customers
+236,Abby Edwards,29.0,25-34,West,Clothing,305.25,6,34.27894736842105,0,Loyal Customers
+237,Barnett Collins,37.0,35-44,North,Electronics,255.5,5,28.63684210526316,0,Loyal Customers
+238,Cassidy Morris,26.0,25-34,South,Beauty,370.75,7,40.915789473684214,0,Loyal Customers
+239,Darius Rogers,44.0,35-44,East,Groceries,160.0,3,17.605263157894736,0,Loyal Customers
+240,Elena Reed,31.0,25-34,West,Clothing,320.75,6,35.257894736842104,0,Loyal Customers
+241,Francis Bell,52.0,45-54,North,Electronics,840.25,13,85.56842105263158,1,Champions
+242,Gretchen Murphy,25.0,<25,South,Beauty,425.0,9,49.3421052631579,0,Loyal Customers
+243,Harold Bailey,39.0,35-44,East,Groceries,185.25,3,19.2,0,Loyal Customers
+244,Irene Rivera,27.0,25-34,West,Electronics,340.5,7,39.005263157894746,0,Loyal Customers
+245,Jasper Cooper,46.0,45-54,North,Clothing,155.25,3,17.30526315789474,0,Loyal Customers
+246,Kendra Howard,30.0,25-34,South,Electronics,280.75,5,30.23157894736842,0,Loyal Customers
+247,Louis Cox,36.0,35-44,East,Clothing,225.5,4,24.242105263157896,0,Loyal Customers
+248,Molly Ward,24.0,<25,West,Beauty,460.0,10,54.05263157894738,0,Loyal Customers
+249,Nicholas Torres,43.0,35-44,North,Groceries,165.75,3,17.968421052631577,0,Loyal Customers
+250,Olympia Peterson,28.0,25-34,South,Clothing,295.25,6,33.64736842105263,0,Loyal Customers
+251,Percy Gray,50.0,45-54,East,Electronics,770.75,12,78.67894736842105,1,Champions
+252,Queenie Ramirez,26.0,25-34,West,Beauty,400.5,8,45.294736842105266,0,Loyal Customers
+253,Randolph James,40.0,35-44,North,Groceries,175.25,3,18.568421052631578,0,Loyal Customers
+254,Silvia Watson,32.0,25-34,South,Clothing,315.75,6,34.9421052631579,0,Loyal Customers
+255,Thomas Brooks,47.0,45-54,East,Groceries,145.5,2,14.189473684210526,0,Loyal Customers
+256,Ursula Kelly,29.0,25-34,West,Beauty,360.0,7,40.23684210526316,0,Loyal Customers
+257,Vincent Sanders,37.0,35-44,North,Clothing,210.75,4,23.310526315789474,0,Loyal Customers
+258,Wanda Price,25.0,<25,South,Beauty,475.25,10,55.015789473684215,0,Loyal Customers
+259,Xerxes Bennett,44.0,35-44,East,Groceries,170.25,3,18.25263157894737,0,Loyal Customers
+260,Yasmine Wood,30.0,25-34,West,Electronics,330.5,6,35.873684210526314,0,Loyal Customers
+261,Zara Barnes,48.0,45-54,North,Electronics,720.25,11,72.98947368421052,1,Champions
+262,Albert Ross,23.0,<25,South,Beauty,440.75,9,50.33684210526316,0,Loyal Customers
+263,Belinda Henderson,35.0,25-34,East,Clothing,200.0,4,22.631578947368418,0,Loyal Customers
+264,Conrad Coleman,27.0,25-34,West,Electronics,355.25,7,39.93684210526316,0,Loyal Customers
+265,Dena Jenkins,42.0,35-44,North,Groceries,165.0,3,17.92105263157895,0,Loyal Customers
+266,Edgar Perry,31.0,25-34,South,Clothing,285.5,5,30.53157894736842,0,Loyal Customers
+267,Florence Powell,26.0,25-34,East,Beauty,415.75,9,48.7578947368421,0,Loyal Customers
+268,Gilbert Long,49.0,45-54,West,Electronics,760.5,12,78.03157894736842,1,Champions
+269,Harriet Patterson,24.0,<25,North,Beauty,450.0,10,53.421052631578945,0,Loyal Customers
+270,Irving Hughes,38.0,35-44,South,Clothing,190.5,4,22.03157894736842,0,Loyal Customers
+271,Jacinda Flores,29.0,25-34,East,Electronics,310.25,6,34.59473684210527,0,Loyal Customers
+272,Kendall Washington,45.0,35-44,West,Groceries,155.75,3,17.336842105263155,0,Loyal Customers
+273,Lena Butler,32.0,25-34,North,Clothing,290.75,5,30.863157894736837,0,Loyal Customers
+274,Maxwell Simmons,52.0,45-54,South,Electronics,810.5,13,83.68947368421054,1,Champions
+275,Nadia Foster,25.0,<25,East,Beauty,435.0,9,49.973684210526315,0,Loyal Customers
+276,Omar Gonzales,40.0,35-44,West,Groceries,175.0,3,18.55263157894737,0,Loyal Customers
+277,Priscilla Bryant,28.0,25-34,North,Electronics,360.75,7,40.28421052631579,0,Loyal Customers
+278,Quincy Alexander,37.0,35-44,South,Clothing,235.25,4,24.857894736842105,0,Loyal Customers
+279,Rita Russell,23.0,<25,East,Beauty,495.5,11,58.79473684210525,0,Loyal Customers
+280,Sterling Griffin,46.0,45-54,West,Groceries,150.5,2,14.505263157894738,0,Loyal Customers
+281,Trudy Diaz,31.0,25-34,North,Clothing,305.5,6,34.294736842105266,0,Loyal Customers
+282,Ulysses Hayes,27.0,25-34,South,Electronics,275.75,5,29.915789473684207,0,Loyal Customers
+283,Vivian Myers,42.0,35-44,East,Groceries,165.25,3,17.936842105263157,0,Loyal Customers
+284,Walter Ford,29.0,25-34,West,Beauty,350.0,7,39.60526315789474,0,Loyal Customers
+285,Xena Hamilton,36.0,35-44,North,Clothing,220.75,4,23.942105263157895,0,Loyal Customers
+286,Yolanda Graham,50.0,45-54,South,Electronics,740.25,11,74.25263157894737,1,Champions
+287,Zacharias Sullivan,25.0,<25,East,Beauty,420.5,9,49.0578947368421,0,Loyal Customers
+288,Adele Wallace,43.0,35-44,West,Groceries,170.75,3,18.284210526315793,0,Loyal Customers
+289,Barnabas West,30.0,25-34,North,Clothing,295.0,6,33.631578947368425,0,Loyal Customers
+290,Callista Cole,26.0,25-34,South,Electronics,380.25,8,44.01578947368421,0,Loyal Customers
+291,Demetrius Foster,47.0,45-54,East,Groceries,145.75,2,14.205263157894738,0,Loyal Customers
+292,Esme Simmons,32.0,25-34,West,Beauty,315.5,6,34.92631578947368,0,Loyal Customers
+293,Fordham Alexander,55.0,45-54,North,Electronics,930.75,16,98.78421052631579,1,Champions
+294,Gardenia Roberts,24.0,<25,South,Beauty,455.0,10,53.73684210526315,0,Loyal Customers
+295,Houston Turner,39.0,35-44,East,Groceries,185.75,3,19.231578947368423,0,Loyal Customers
+296,Isadora Parker,28.0,25-34,West,Clothing,330.0,6,35.8421052631579,0,Loyal Customers
+297,Jefferson Evans,44.0,35-44,North,Groceries,160.5,3,17.636842105263156,0,Loyal Customers
+298,Katrina Edwards,31.0,25-34,South,Electronics,285.25,5,30.515789473684208,0,Loyal Customers
+299,Lionel Collins,48.0,45-54,East,Electronics,700.5,11,71.7421052631579,1,Champions
+300,Marina Morris,25.0,<25,West,Beauty,395.75,8,44.99473684210527,0,Loyal Customers
+301,Norbert Rogers,37.0,35-44,North,Clothing,210.25,4,23.27894736842105,0,Loyal Customers
+302,Ophelia Reed,29.0,25-34,South,Electronics,345.5,7,39.321052631578944,0,Loyal Customers
+303,Percival Bell,43.0,35-44,East,Groceries,165.0,3,17.92105263157895,0,Loyal Customers
+304,Queenie Murphy,30.0,25-34,West,Clothing,300.75,6,33.99473684210527,0,Loyal Customers
+305,Reginald Bailey,53.0,45-54,North,Electronics,860.25,14,89.33157894736843,1,Champions
+306,Sophronia Rivera,26.0,25-34,South,Beauty,415.0,9,48.71052631578947,0,Loyal Customers
+307,Tennyson Cooper,40.0,35-44,East,Groceries,180.5,3,18.9,0,Loyal Customers
+308,Ursula Howard,27.0,25-34,West,Beauty,350.25,7,39.62105263157895,0,Loyal Customers
+309,Valentine Cox,36.0,35-44,North,Clothing,230.0,4,24.526315789473685,0,Loyal Customers
+310,Wilhelmina Ward,24.0,<25,South,Beauty,490.25,11,58.46315789473684,0,Loyal Customers
+311,Xander Torres,49.0,45-54,East,Electronics,730.75,12,76.15263157894738,1,Champions
+312,Yasmin Peterson,31.0,25-34,West,Beauty,380.5,8,44.03157894736842,0,Loyal Customers
+313,Zoltan Gray,44.0,35-44,North,Groceries,175.25,3,18.568421052631578,0,Loyal Customers
+314,Amara Ramirez,28.0,25-34,South,Electronics,310.0,6,34.578947368421055,0,Loyal Customers
+315,Brigham James,37.0,35-44,East,Clothing,225.5,4,24.242105263157896,0,Loyal Customers
+316,Calliope Watson,23.0,<25,West,Beauty,465.75,10,54.415789473684214,0,Loyal Customers
+317,Darian Brooks,50.0,45-54,North,Electronics,790.5,13,82.42631578947368,1,Champions
+318,Elspeth Kelly,26.0,25-34,South,Beauty,395.0,8,44.94736842105264,0,Loyal Customers
+319,Fionn Sanders,41.0,35-44,East,Groceries,185.75,3,19.231578947368423,0,Loyal Customers
+320,Galatea Price,29.0,25-34,West,Clothing,325.25,6,35.5421052631579,0,Loyal Customers
+321,Harrison Bennett,47.0,45-54,North,Electronics,710.75,11,72.38947368421054,1,Champions
+322,Ingeborg Wood,24.0,<25,South,Beauty,445.5,10,53.13684210526315,0,Loyal Customers
+323,Jasper Barnes,35.0,25-34,East,Clothing,200.25,4,22.647368421052633,0,Loyal Customers
+324,Kira Ross,28.0,25-34,West,Electronics,360.0,7,40.23684210526316,0,Loyal Customers
+325,Lancelot Henderson,43.0,35-44,North,Groceries,160.75,3,17.65263157894737,0,Loyal Customers
+326,Magdalene Coleman,31.0,25-34,South,Electronics,280.5,5,30.215789473684207,0,Loyal Customers
+327,Naveen Jenkins,27.0,25-34,East,Clothing,215.75,4,23.626315789473683,0,Loyal Customers
+328,Odalys Perry,34.0,25-34,West,Beauty,370.25,7,40.88421052631579,0,Loyal Customers
+329,Peregrine Powell,52.0,45-54,North,Electronics,820.5,13,84.32105263157894,1,Champions
+330,Quintessa Long,25.0,<25,South,Beauty,430.75,9,49.70526315789474,0,Loyal Customers
+331,Roderick Patterson,40.0,35-44,East,Groceries,175.5,3,18.584210526315793,0,Loyal Customers
+332,Sapphire Hughes,28.0,25-34,West,Clothing,315.25,6,34.910526315789475,0,Loyal Customers
+333,Thaddeus Flores,46.0,45-54,North,Groceries,155.0,3,17.289473684210527,0,Loyal Customers
+334,Undine Washington,32.0,25-34,South,Electronics,295.5,6,33.66315789473684,0,Loyal Customers
+335,Verdell Butler,37.0,35-44,East,Clothing,235.75,4,24.889473684210525,0,Loyal Customers
+336,Waverly Simmons,23.0,<25,West,Beauty,480.0,10,55.315789473684205,0,Loyal Customers
+337,Xenophon Foster,49.0,45-54,North,Electronics,740.25,12,76.75263157894737,1,Champions
+338,Yolanda Gonzales,26.0,25-34,South,Beauty,390.5,8,44.66315789473684,0,Loyal Customers
+339,Zeb Bryant,41.0,35-44,East,Groceries,170.25,3,18.25263157894737,0,Loyal Customers
+340,Adaeze Alexander,29.0,25-34,West,Clothing,330.75,6,35.88947368421053,0,Loyal Customers
+341,Unknown,35.0,25-34,North,Electronics,250.0,5,28.289473684210524,0,Loyal Customers
+342,Birgitta Russell,27.0,25-34,South,Beauty,375.0,7,41.18421052631579,0,Loyal Customers
+343,Crispin Griffin,44.0,35-44,East,Groceries,165.75,3,17.968421052631577,0,Loyal Customers
+344,Damaris Diaz,31.0,25-34,West,Clothing,300.25,6,33.96315789473684,0,Loyal Customers
+345,Emrys Hayes,50.0,45-54,North,Electronics,760.75,12,78.04736842105264,1,Champions
+346,Felicitas Myers,25.0,<25,South,Beauty,415.5,9,48.742105263157896,0,Loyal Customers
+347,Gawain Ford,38.0,35-44,East,Clothing,190.75,4,22.04736842105263,0,Loyal Customers
+348,Halcyon Hamilton,28.0,25-34,West,Electronics,350.5,7,39.636842105263156,0,Loyal Customers
+349,Idris Graham,45.0,35-44,North,Groceries,155.5,3,17.321052631578947,0,Loyal Customers
+350,Jessamine Sullivan,32.0,25-34,South,Clothing,285.75,5,30.547368421052635,0,Loyal Customers
+353,Duplicate Entry,28.0,25-34,East,Clothing,310.0,6,34.578947368421055,0,Loyal Customers
+354,Kipling Wallace,37.0,35-44,West,Electronics,225.0,4,24.210526315789473,0,Loyal Customers
+355,Lavinia West,26.0,25-34,North,Beauty,370.75,7,40.915789473684214,0,Loyal Customers
+356,Mordecai Cole,43.0,35-44,South,Groceries,160.25,3,17.621052631578948,0,Loyal Customers
+357,Narcissa Foster,30.0,25-34,East,Clothing,305.0,6,34.26315789473684,0,Loyal Customers
+358,Obadiah Simmons,49.0,45-54,West,Electronics,750.0,12,77.36842105263158,1,Champions
+359,Perpetua Alexander,25.0,<25,North,Beauty,425.25,9,49.3578947368421,0,Loyal Customers
+360,Quillan Roberts,39.0,35-44,South,Groceries,185.0,3,19.18421052631579,0,Loyal Customers
+361,Romilda Turner,28.0,25-34,East,Electronics,340.75,7,39.02105263157895,0,Loyal Customers
+362,Saoirse Parker,44.0,35-44,West,Groceries,170.5,3,18.268421052631577,0,Loyal Customers
+363,Tancred Evans,32.0,25-34,North,Clothing,290.5,6,33.34736842105263,0,Loyal Customers
+364,Ulrica Edwards,27.0,25-34,South,Beauty,360.25,7,40.25263157894737,0,Loyal Customers
+365,Vespera Collins,50.0,45-54,East,Electronics,780.75,13,81.81052631578947,1,Champions
+366,Willowmere Morris,24.0,<25,West,Beauty,440.5,9,50.321052631578944,0,Loyal Customers
+367,Xanthippe Rogers,38.0,35-44,North,Clothing,200.75,4,22.678947368421053,0,Loyal Customers
+368,Ysolde Reed,29.0,25-34,South,Electronics,325.5,6,35.55789473684211,0,Loyal Customers
+369,Zephyrine Bell,45.0,35-44,East,Groceries,165.25,3,17.936842105263157,0,Loyal Customers
+370,Aldric Murphy,31.0,25-34,West,Clothing,280.25,5,30.2,0,Loyal Customers
+371,Belphoebe Bailey,23.0,<25,North,Beauty,475.0,10,55.00000000000001,0,Loyal Customers
+372,Caradoc Rivera,46.0,45-54,South,Groceries,150.75,2,14.521052631578947,0,Loyal Customers
+373,Dymphna Cooper,30.0,25-34,East,Clothing,315.75,6,34.9421052631579,0,Loyal Customers
+374,Eirlys Howard,36.0,35-44,West,Electronics,380.0,7,41.5,0,Loyal Customers
+375,Fionnuala Cox,25.0,<25,North,Beauty,445.25,9,50.62105263157895,0,Loyal Customers
+376,Gaheris Ward,42.0,35-44,South,Groceries,175.75,3,18.6,0,Loyal Customers
+377,Heulwen Torres,29.0,25-34,East,Clothing,310.5,6,34.61052631578948,0,Loyal Customers
+378,Idwal Peterson,47.0,45-54,West,Electronics,720.75,11,73.02105263157894,1,Champions
+379,Jocasta Gray,24.0,<25,North,Beauty,455.5,10,53.768421052631574,0,Loyal Customers
+380,Kearney Ramirez,35.0,25-34,South,Clothing,195.0,4,22.315789473684212,0,Loyal Customers
+381,Lisette James,28.0,25-34,East,Electronics,355.75,7,39.96842105263158,0,Loyal Customers
+382,Malachy Watson,43.0,35-44,West,Groceries,165.0,3,17.92105263157895,0,Loyal Customers
+383,Niamh Brooks,31.0,25-34,North,Clothing,285.0,5,30.5,0,Loyal Customers
+384,Odessa Kelly,26.0,25-34,South,Beauty,400.25,8,45.27894736842105,0,Loyal Customers
+385,Phelan Sanders,40.0,35-44,East,Groceries,180.25,3,18.88421052631579,0,Loyal Customers
+386,Quillon Price,28.0,25-34,West,Electronics,340.0,7,38.973684210526315,0,Loyal Customers
+387,Rowan Bennett,37.0,35-44,North,Clothing,220.75,4,23.942105263157895,0,Loyal Customers
+388,Seren Wood,24.0,<25,South,Beauty,470.5,10,54.715789473684204,0,Loyal Customers
+389,Taliesin Barnes,49.0,45-54,East,Electronics,700.75,11,71.7578947368421,1,Champions
+390,Tesni Ross,26.0,25-34,West,Beauty,385.25,8,44.33157894736842,0,Loyal Customers
+391,Trystan Henderson,41.0,35-44,North,Groceries,170.0,3,18.236842105263158,0,Loyal Customers
+392,Uchenna Coleman,30.0,25-34,South,Clothing,295.75,6,33.67894736842105,0,Loyal Customers
+393,Veerle Jenkins,37.0,35-44,East,Electronics,225.25,4,24.226315789473684,0,Loyal Customers
+394,Wynne Perry,25.0,<25,West,Beauty,365.75,7,40.6,0,Loyal Customers
+395,Ximena Powell,44.0,35-44,North,Groceries,160.5,3,17.636842105263156,0,Loyal Customers
+396,Yewande Long,31.0,25-34,South,Clothing,280.25,5,30.2,0,Loyal Customers
+397,Zemira Patterson,48.0,45-54,East,Electronics,730.0,11,73.60526315789473,1,Champions
+398,Abiodun Hughes,24.0,<25,West,Beauty,440.25,9,50.30526315789474,0,Loyal Customers
+399,Babatunde Flores,39.0,35-44,North,Groceries,185.5,3,19.21578947368421,0,Loyal Customers
+400,Chidinma Washington,28.0,25-34,South,Electronics,320.0,6,35.21052631578947,0,Loyal Customers
